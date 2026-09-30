@@ -1,0 +1,15 @@
+# Dataset
+data/
+
+# Result files
+results/
+
+# MATLAB files
+*.mat
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
